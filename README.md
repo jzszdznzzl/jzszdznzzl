@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![Jose Daniel Cristaldo Vera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsxdev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Jose Daniel Cristaldo Vera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jzszdznzzl&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jxsxdev&layout=compact&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jzszdznzzl&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
