@@ -23,10 +23,17 @@ My breakthrough came with **WhatsApp bots**. I wanted to understand how they wor
 | Project | Description |
 | --- | --- |
 | [**protobuf**](https://github.com/jzszdznzzl/protobuf) | Protobuf code generator and runtime for TypeScript. ESM only, no `protoc`. |
-| [**wabotjs**](https://github.com/jzszdznzzl/wabotjs) | Lightweight WhatsApp bot framework built on Baileys. |
-| [**wapi**](https://github.com/jzszdznzzl/wapi) | Fast, secure WhatsApp bot framework written 100% in TypeScript. |
+| [**wabotjs**](https://github.com/jzszdznzzl/wabotjs) | Lightweight WhatsApp bot framework built on Baileys. Published as [`@jzszdznzzl/wabotjs`](https://www.npmjs.com/package/@jzszdznzzl/wabotjs). |
+
+### Earlier work
+
+Archived projects, published on npm under my previous account [`@imjxsx`](https://www.npmjs.com/~imjxsx).
+
+| Project | Description |
+| --- | --- |
+| [**logger**](https://github.com/jzszdznzzl/logger) · [**colors**](https://github.com/jzszdznzzl/colors) | Customizable logger and ANSI terminal styling for Node.js. ~8k npm downloads each in 2026. |
 | [**localdb**](https://github.com/jzszdznzzl/localdb) | MongoDB-style BSON database for Node.js with zero dependencies. |
-| [**logger**](https://github.com/jzszdznzzl/logger) · [**colors**](https://github.com/jzszdznzzl/colors) | Customizable logger and ANSI terminal styling for Node.js. |
+| [**wapi**](https://github.com/jzszdznzzl/wapi) | Fast, secure WhatsApp bot framework written 100% in TypeScript. |
 
 ## Tech stack
 
