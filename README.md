@@ -1,53 +1,55 @@
-# Hi there, I'm Jose Daniel Cristaldo Vera 👋
+# Hi, I'm José Daniel 👋
 
-## - About Me
+**18-year-old developer from Paraguay 🇵🇾, building tools that solve real problems.**
+TypeScript all the way: WhatsApp bots, protocol tooling and npm packages.
 
-> I'm a 18-year-old developer from Paraguay with a passion for building tools that solve real problems. My journey into programming started in an unexpected place: Minecraft Bedrock's command blocks. What began as curiosity about game mechanics evolved into creating custom addons for my servers using JavaScript, and eventually led me to explore the world of automation and bot development.
+[![Website](https://img.shields.io/badge/jzszdznzzl.dev-0f1115?style=flat-square&logo=googlechrome&logoColor=7ee2b8)](https://jzszdznzzl.dev) [![Email](https://img.shields.io/badge/me@jzszdznzzl.dev-0f1115?style=flat-square&logo=maildotru&logoColor=7ee2b8)](mailto:me@jzszdznzzl.dev) [![Telegram](https://img.shields.io/badge/Telegram-0f1115?style=flat-square&logo=telegram&logoColor=7ee2b8)](https://t.me/jzszdznzzl)
 
-> My breakthrough came when I discovered WhatsApp bots. Driven by a desire to understand how they worked, I built my own using TypeScript and Baileys. That project opened my eyes to the power of clean, type-safe code and sparked my commitment to continuous learning and experimentation with new technologies.
+## About me
 
-## - What I'm Working On
+I started programming somewhere unexpected: **Minecraft Bedrock's command blocks**. Curiosity about game mechanics turned into custom JavaScript addons for my servers, and from there into automation and bot development.
 
-- 🔧 Developing and maintaining open-source modules for the [npm](https://npmjs.com) ecosystem.
-- 🦀 Exploring [Rust](https://rust-lang.org) to deepen my understanding of systems programming.
-- 🐍 Learning [Python](https://python.org) to expand my toolkit for data manipulation and automation.
-- 📦 Building developer tools that simplify complex workflows.
+My breakthrough came with **WhatsApp bots**. I wanted to understand how they worked, so I built my own with TypeScript and Baileys. That project showed me the value of clean, type-safe code, and I've kept learning and experimenting ever since.
 
-## - Tech Stack
+## What I'm working on
 
-**Languages:**  
+- 🔧 Open-source modules for the [npm](https://npmjs.com) ecosystem.
+- 📦 Developer tools that simplify complex workflows.
+- 🦀 Exploring [Rust](https://rust-lang.org) to understand systems programming.
+- 🐍 Learning [Python](https://python.org) for data manipulation and automation.
 
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="JavaScript" title="JavaScript"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="TypeScript" title="TypeScript">
+## Featured projects
 
-**Frameworks & Runtime:**  
+| Project | Description |
+| --- | --- |
+| [**protobuf**](https://github.com/jzszdznzzl/protobuf) | Protobuf code generator and runtime for TypeScript. ESM only, no `protoc`. |
+| [**wabotjs**](https://github.com/jzszdznzzl/wabotjs) | Lightweight WhatsApp bot framework built on Baileys. |
+| [**wapi**](https://github.com/jzszdznzzl/wapi) | Fast, secure WhatsApp bot framework written 100% in TypeScript. |
+| [**localdb**](https://github.com/jzszdznzzl/localdb) | MongoDB-style BSON database for Node.js with zero dependencies. |
+| [**logger**](https://github.com/jzszdznzzl/logger) · [**colors**](https://github.com/jzszdznzzl/colors) | Customizable logger and ANSI terminal styling for Node.js. |
 
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?raw=true?raw=true" alt="Express.js" title="Express.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" alt="Node.js" title="Node.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg?raw=true" alt="Bun" title="Bun">
+## Tech stack
 
-**Databases:**  
+| Area | Tools |
+| --- | --- |
+| **Languages** | <img height="36" src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript, JavaScript"> |
+| **Runtimes** | <img height="36" src="https://skillicons.dev/icons?i=nodejs,bun" alt="Node.js, Bun"> |
+| **API frameworks** | <img height="36" src="https://skillicons.dev/icons?i=elysia,express" alt="Elysia, Express"> + Fastify |
+| **Databases** | <img height="36" src="https://skillicons.dev/icons?i=sqlite,mongodb,redis" alt="SQLite, MongoDB, Redis"> |
+| **Tooling** | <img height="36" src="https://skillicons.dev/icons?i=pnpm,git" alt="pnpm, Git"> + tsc, tsdown, oxlint, Prettier, zod |
+| **Deploy & ops** | <img height="36" src="https://skillicons.dev/icons?i=linux,bash,cloudflare" alt="Linux, Bash, Cloudflare"> + pm2, ngrok |
+| **Learning** | <img height="36" src="https://skillicons.dev/icons?i=rust,py" alt="Rust, Python"> |
 
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" title="MongoDB"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg?raw=true" alt="Redis" title="Redis"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg?raw=true" alt="SQLite" title="SQLite">
-
-**Currently Learning:**  
-
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg?raw=true" alt="Rust" title="Rust"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="Python" title="Python">
-
-## - GitHub Stats
+## GitHub stats
 
 <div align="center">
 
-![Jose Daniel Cristaldo Vera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jzszdznzzl&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![José Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzszdznzzl&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jzszdznzzl&layout=compact&theme=dark&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jzszdznzzl&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-## - Let's Connect
-
-I'm always open to discussing new projects, collaboration opportunities, or just chatting about technology.
-
-- 📧 Email: <me@jzszdznzzl.dev>
-- 💬 Telegram: jzszdznzzl
-
 ---
 
-*"From Minecraft command blocks to production-ready npm packages—every line of code is a step forward."*  
+<p align="center"><i>"From Minecraft command blocks to production-ready npm packages: every line of code is a step forward."</i></p>
