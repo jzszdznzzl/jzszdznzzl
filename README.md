@@ -45,7 +45,7 @@
 
 I'm always open to discussing new projects, collaboration opportunities, or just chatting about technology.
 
-- 📧 Email: <jxsxdxnxxl@gmail.com>
+- 📧 Email: <me@jzszdznzzl.dev>
 - 💬 Telegram: jzszdznzzl
 
 ---
